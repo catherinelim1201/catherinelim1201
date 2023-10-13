@@ -15,12 +15,16 @@ You can click the Preview link to take a look at your changes.
 <h3>Things I code with </h3>
 
 <p>
+  <img alt="HTML" src="https://img.shields.io/badge/-jQuery?style=social&logo=jquery&logoColor=%2326577C&label=jquery&labelColor=%2326577C&color=%2326577C">
+  <img alt="CSS3" src="https://img.shields.io/badge/-css3?style=social&logo=css3&logoColor=%2326577C&label=CSS3&labelColor=%2326577C&color=%2326577C">
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript?style=social&logo=javascript&logoColor=%2326577C&label=JavaScript&labelColor=%2326577C&color=%2326577C">
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby?style=social&logo=ruby&logoColor=%2326577C&label=Ruby&labelColor=%2326577C&color=%2326577C">
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap?style=social&logo=bootstrap&logoColor=%2326577C&label=Bootstrap&labelColor=%2326577C&color=%2326577C">
 
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby?style=social&logo=ruby&logoColor=%2326577C&label=Ruby&labelColor=%2326577C&color=%2326577C">
+  <br />
   <img alt="Ruby on Rails" src="https://img.shields.io/badge/-Ruby_on_rails?style=social&logo=rubyonrails&logoColor=%2326577C&label=Ruby%20on%20Rails&labelColor=%2326577C&color=%2326577C">
-
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify?style=social&logo=netlify&logoColor=%2326577C&label=netlify&labelColor=%2326577C&color=%2326577C">
+  <br />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku?style=social&logo=heroku&logoColor=%2326577C&label=Heroku&labelColor=%2326577C&color=%2326577C">
 </p>
 
